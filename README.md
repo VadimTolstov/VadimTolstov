@@ -3,23 +3,24 @@
 
 ## Languages & Tools I use:
 
-<a href="https://www.java.com/"><img src="media/logo/Java.svg" width="50" height="50"  alt="Java"/></a>
-<a id ="tech" href="https://www.jetbrains.com/idea/"><img src="media/logo/Idea.svg" width="50" height="50"  alt="IDEA"/></a>
-<a href="https://www.postgresql.org"><img src="icons/postgreSQL.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/></a>
-<a href="https://www.docker.com"><img src="icons/docker.svg" title="Docker" alt="Docker" width="40" height="40"/></a>
-<a href="https://aerokube.com/selenoid/"><img src="icons/selenoid-logo.svg" title="Docker" alt="Docker" width="40" height="40"/></a>
-<a href="https://selenide.org"><img src="icons/selenide.svg" title="Selenide" alt="Selenide" width="40" height="40"/></a>
-<a href="https://www.selenium.dev"><img src="icons/selenuim.svg" title="Selenium" alt="Selenium" width="40" height="40"/></a>
-<a href="https://junit.org/junit5"><img src="icons/junit5.svg" title="JUnit5" alt="JUnit5" width="40" height="40"/></a>
-<a href="https://www.browserstack.com/"><img src="media/logo/Browserstack.svg" width="40" height="40"  alt="Browserstack"/></a><a href="https://rest-assured.io"><img src="icons/rest_assured.svg" title="REST Assured" alt="REST Assured" width="40" height="40"/></a>
-<a href="https://gradle.org"><img src="icons/gradle.svg" title="Gradle" alt="Gradle" width="40" height="40"/></a>
-<a href="https://developer.android.com/studio"><img src="media/logo/Android-studio.svg" width="40" height="40"  alt="Android Studio"/></a>
-<a href="https://appium.io/"><img src="media/logo/Appium.svg" width="40" height="40"  alt="Appium"/></a>
-<a href="https://www.jenkins.io"><img src="icons/jenkins.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/></a>
-<a href="https://www.atlassian.com/software/jira"><img src="icons/jira.svg" title="Jira" alt="Jira" width="40" height="40"/></a>
-<a href="https://qameta.io/allure-report"><img src="icons/allure_report.svg" title="Allure Report" alt="Allure Report" width="40" height="40"/></a>
-<a href="https://qameta.io"><img src="icons/allure_testops.svg" title="Allure Testops" alt="REST Assured" width="40" height="40"/></a><br>
-<a href="https://www.figma.com"><img src="icons/figma.svg" title="Figma" alt="Figma" width="40" height="40"/></a>
+<a href="https://www.java.com/"><img src="media/logo/Java.svg" width="60" height="60"  alt="Java"/></a>
+<a id ="tech" href="https://www.jetbrains.com/idea/"><img src="media/logo/Idea.svg" width="60" height="60"  alt="IDEA"/></a>
+<a href="https://www.postgresql.org"><img src="icons/postgreSQL.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/></a>
+<a href="https://www.docker.com"><img src="icons/docker.svg" title="Docker" alt="Docker" width="50" height="50"/></a>
+<a href="https://aerokube.com/selenoid/"><img src="icons/selenoid-logo.svg" title="Docker" alt="Docker" width="50" height="50"/></a>
+<a href="https://selenide.org"><img src="icons/selenide.svg" title="Selenide" alt="Selenide" width="50" height="50"/></a>
+<a href="https://www.selenium.dev"><img src="icons/selenuim.svg" title="Selenium" alt="Selenium" width="50" height="50"/></a>
+<a href="https://junit.org/junit5"><img src="icons/junit5.svg" title="JUnit5" alt="JUnit5" width="50" height="50"/></a>
+<a href="https://www.browserstack.com/"><img src="media/logo/Browserstack.svg" width="50" height="50"  alt="Browserstack"/>
+</a><a href="https://rest-assured.io"><img src="icons/rest_assured.svg" title="REST Assured" alt="REST Assured" width="50" height="50"/></a>
+<a href="https://gradle.org"><img src="icons/gradle.svg" title="Gradle" alt="Gradle" width="50" height="50"/></a>
+<a href="https://developer.android.com/studio"><img src="media/logo/Android-studio.svg" width="50" height="50"  alt="Android Studio"/></a>
+<a href="https://appium.io/"><img src="media/logo/Appium.svg" width="50" height="50"  alt="Appium"/></a>
+<a href="https://www.jenkins.io"><img src="icons/jenkins.svg" title="Jenkins" alt="Jenkins" width="50" height="50"/></a>
+<a href="https://www.atlassian.com/software/jira"><img src="icons/jira.svg" title="Jira" alt="Jira" width="50" height="50"/></a>
+<a href="https://qameta.io/allure-report"><img src="icons/allure_report.svg" title="Allure Report" alt="Allure Report" width="50" height="50"/></a>
+<a href="https://qameta.io"><img src="icons/allure_testops.svg" title="Allure Testops" alt="REST Assured" width="50" height="50"/></a><br>
+<a href="https://www.figma.com"><img src="icons/figma.svg" title="Figma" alt="Figma" width="50" height="50"/></a>
 
 ## Ways to reach me:
 
