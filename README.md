@@ -1,7 +1,14 @@
 ### Welcome to my GitHub page! 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF00FF&lines=I%60m+QA+Engineer)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF00FF&lines=I%60m+QA+Engineer)
 
-## Languages & Tools I use:
+## О себе
+Я - QA Еngineer на Java. Тестирую веб, десктоп и
+мобильные приложения. Люблю составлять и
+вести документацию. В будущем планирую
+дальше развиваться в направлении
+тестирования.
+
+## Stack:
 
 <a href="https://www.java.com/"><img src="media/logo/Java.svg" width="60" height="60"  alt="Java"/></a>
 <a id ="tech" href="https://www.jetbrains.com/idea/"><img src="media/logo/Idea.svg" width="60" height="60"  alt="IDEA"/></a>
