@@ -28,7 +28,6 @@
 <a href="https://qameta.io/allure-report"><img src="icons/allure_report.svg" title="Allure Report" alt="Allure Report" width="50" height="50"/></a>
 <a href="https://qameta.io"><img src="icons/allure_testops.svg" title="Allure Testops" alt="REST Assured" width="50" height="50"/></a>
 <a href="https://www.figma.com"><img src="icons/figma.svg" title="Figma" alt="Figma" width="50" height="50"/></a>
-<a href="https://testit.software/"><img src="icons/testit.png" title="Figma" alt="Figma" width="50" height="50"/></a>
 
 ## Ways to reach me:
 
